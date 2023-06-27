@@ -1,7 +1,14 @@
 [profile.default]
-src = "src"
-out = "out"
 libs = ["lib"]
-remappings = ['@chainlink/contracts=lib/chainlink/contracts', '@openzeppelin/contracts=lib/openzeppelin-contracts/contracts']
+out = "out"
+src = "src"
+
+remappings = [
+  '@/src=src',
+  '@/scripts=scripts',
+  '@/tests=tests',
+  '@chainlink/contracts=lib/chainlink/contracts',
+  '@openzeppelin/contracts=lib/openzeppelin-contracts/contracts',
+]
 
 # See more config options https://github.com/foundry-rs/foundry/tree/master/config
