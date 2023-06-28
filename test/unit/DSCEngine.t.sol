@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: MIT
 
-pragma solidity 0.8.13;
+pragma solidity 0.8.19;
 
 import {DeployStableCoin} from "@/script/DeployStableCoin.s.sol";
 import {DSCEngine} from "@/src/DSCEngine.sol";
