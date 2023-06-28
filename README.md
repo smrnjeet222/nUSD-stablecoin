@@ -17,4 +17,4 @@ Key Functions:
 - [OracleLib](https://sepolia.etherscan.io/address/0xc69fe4cee0a65255fbffd0956beb2ad86a3d4508)
 
 `forge coverage`<br />
-<img width="836" alt="image" src="https://github.com/smrnjeet222/nUSD-stablecoin/assets/48654626/f10423f8-f305-4216-9e67-b70aaf304632">
+<img width="1619" alt="image" src="https://github.com/smrnjeet222/nUSD-stablecoin/assets/48654626/0982daac-d110-42fd-8eb5-8013e4d0ee23">
