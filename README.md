@@ -11,7 +11,7 @@ Key Functions:
 - Ensure that the total supply of nUSD is updated based on the actions.
 
 ### Depoyed
-
+- [Intractuive UI / APP](https://nusd-stablecoin.netlify.app/)
 - [DSC Engine](https://sepolia.etherscan.io/address/0x2e344024b6fa28646bdace18c259525fb179b29a)
 - [nUSD Stable Coin](https://sepolia.etherscan.io/address/0xfaaad54447612ae63c5f60140be9fd7d961e57a1)
 - [OracleLib](https://sepolia.etherscan.io/address/0xc69fe4cee0a65255fbffd0956beb2ad86a3d4508)
