@@ -5,7 +5,7 @@ src = "src"
 
 remappings = [
   '@/src=src',
-  '@/scripts=scripts',
+  '@/script=script',
   '@/tests=tests',
   '@chainlink/contracts=lib/chainlink/contracts',
   '@openzeppelin/contracts=lib/openzeppelin-contracts/contracts',
